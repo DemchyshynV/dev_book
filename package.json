@@ -1,5 +1,5 @@
 {
-  "name": "base",
+  "name": "devbook",
   "version": "1.0.0",
   "description": "",
   "main": "index",
@@ -21,7 +21,7 @@
     "jsonwebtoken": "^8.5.1",
     "mysql2": "^2.1.0",
     "sequelize": "^5.22.3",
-    "nodemailer": "^6.4.10"
+    "nodemailer": "^6.4.1"
   },
   "devDependencies": {
     "@types/bcrypt": "^3.0.0",

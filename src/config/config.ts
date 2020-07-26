@@ -30,7 +30,7 @@ export const config = {
   // DB_HOST: process.env.DB_HOST || 'localhost',
   // DB_DIALECT: process.env.DB_DIALECT || 'mysql'
 
-  SEQUELIZE_URI: 'mysql://root:root@localhost:3306/db'
+  SEQUELIZE_URI: 'mysql://root:root@localhost:3306/db2'
 
   // ROOT_EMAIL: process.env.ROOT_EMAIL,
   // ROOT_EMAIL_PASSWORD: process.env.ROOT_EMAIL_PASSWORD,
